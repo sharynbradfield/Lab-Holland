@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="800c3b76d4e232007f44ab270bf214d4" sys_domain="global" table="x_snc_fleet_management_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 20:03:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c80c3b76d4e232007f44ab270bf214d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_fleet_management_request" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">800c3b76d4e232007f44ab270bf214d4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">840c3b76d4e232007f44ab270bf214d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 20:03:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 20:03:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c0c3b76d4e232007f44ab270bf214db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_fleet_management_request" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">800c3b76d4e232007f44ab270bf214d4</sys_ui_form>
+            <sys_ui_section caption="Scheduling" display_value="Scheduling" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">000c3b76d4e232007f44ab270bf214da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 20:03:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 20:28:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d91840bd4e232007f44ab270bf214d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_fleet_management_request" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">800c3b76d4e232007f44ab270bf214d4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">2591840bd4e232007f44ab270bf214cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 20:28:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 20:28:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2191840bd4e232007f44ab270bf214d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_fleet_management_request" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">800c3b76d4e232007f44ab270bf214d4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_fleet_management_request" sys_domain="global" view="Default view">a191840bd4e232007f44ab270bf214ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 20:28:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_fleet_management_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 20:03:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>800c3b76d4e232007f44ab270bf214d4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_snc_fleet_management_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_800c3b76d4e232007f44ab270bf214d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 20:28:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

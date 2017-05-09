@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a10cbb76d4e232007f44ab270bf2146e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_portal_preferences">
+    <sys_portal_preferences action="INSERT_OR_UPDATE">
+        <name>current_page</name>
+        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+        <sys_id>a10cbb76d4e232007f44ab270bf2146e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+        <value>190cbb76d4e232007f44ab270bf21414</value>
+    </sys_portal_preferences>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>060cfb76d4e232007f44ab270bf2149f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>current_page</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_metadata_link_060cfb76d4e232007f44ab270bf2149f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:06</sys_updated_on>
+        <tablename>sys_portal_preferences</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Fleet Management Task" max_length="40" name="x_snc_fleet_management_task" type="collection"/>
+</database>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Fleet Management Request" max_length="40" name="x_snc_fleet_management_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Destination" max_length="40" name="x_snc_fleet_manage_destination" type="string"/>
+        <element label="Deliver By" max_length="40" name="x_snc_fleet_manage_u_deliver_by" type="glide_date"/>
+        <element label="Destination" max_length="32" name="x_snc_fleet_manage_u_destination" reference="cmn_location" type="reference"/>
+    </element>
+</database>

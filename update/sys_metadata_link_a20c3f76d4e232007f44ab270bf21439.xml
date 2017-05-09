@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3d0cfb76d4e232007f44ab270bf21419</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_attachment_doc">
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AdQDK/yJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADdklEQVR42uyd0W3iQBCGF4sCXAJveYUKAhVcUkGgAkIaQGkgkAoCFUAqwB2EPOYplOACIt3NwJhbfLMhPoaTN/f/0ghjryP0eTKe8e56Gy6gi4ePNn3ckF2RtRz0mTZkS7L5211zrTVoKIAZ6kQAQ9XFwEcEfBMETZC79LEgS5U/wFcqB8cDMae2sp859XzvbpQgr0onZGSPdMISTMMidvzfPyTrlg4x7GwPWsLFi+fJfEWui0bQl4GXIwJz7HAYSWTHpHSwB8jVJcx6XohNha1rSHbxork7dJJn+2G4k0gKt4/JgGzm2T7Hm6SUxj0Ck5l8llccOn56V6IBPqYhZM82KeXJkK3WGmgUI/bKNdDQGQXQAA3QEEADNEADAUADNATQAA3QEeri4SOVDoto1IwAasvtnplful3nZ+odKzYzsmey2dtdM4dHVwRM9kSb7+73OJM00Lwrbd7pnFuAribuc+tXPGfbGSoXCKC/qFO61fp18+w6g/YH7XDcnZEN3K47n+2abOrCHRZjvmniZnhEPOiEQDHcV9qehi4GtbmXMNNWwkhfLgY8+gjswSeQiza5eLemS4QOY+8vhRrfqwHaWK+oDKFvBVqLxxuAtq0iU/fn2GQnZTlAG0orTvI6DaBPvoE3c/48Vg7dI0bbSnuusT6WfwN0NW9+UirCXEp1ZB1GkG+d/nRvFJrrB9DVIXOGMVEOTQnyDHm0XSqnxWWeFjJCwWKbyrWUuHyNytDWm4fKoUFd+wpj9Wit3zCLYWZvbKB/KPvmMfzw2EBrYzmWAG2vllIB5gB9fkUzkwwP/gFa1fpIKKmtmjFRpnjcgUdDAA3Q/5GiitHykqixFC6Zi+jFWklkkBdeddjl77IfoA01CewfAvR5y+9CbYD+N9oAtK1mgf3PAG2rkVKC8/dpDD8+mvROHod2pAec4/I6pnf0RZVHC/DMHb68D5UhBNAADdAQQAM0BNAADdAQQAM0BNAADdCQEegUOMyVaqDb4GKutg96U3yJZYxEDCqx3C5K5o/0GQKRmXyWSwbtT7bpSp8cdJo3M0Of4zyRedO+Vy9ie8FqzSAzu4Xvzcy4uBlyV76/Bt8Knv3Xnrxyh2tDbqdNYylUuxufthRqp3jTAhb3PT1PDi3ue7CULJarttfx5aqVoF5egB1eHRazCS7A/kuAAQAPhxnIo42xMwAAAABJRU5ErkJggjRjzzTUAwAA</data>
+        <length>1324</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="750cfb76d4e232007f44ab270bf21419">750cfb76d4e232007f44ab270bf21419</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:05</sys_created_on>
+        <sys_id>3d0cfb76d4e232007f44ab270bf21419</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a20c3f76d4e232007f44ab270bf21439</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2017-05-09 13:04:05</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_metadata_link_a20c3f76d4e232007f44ab270bf21439</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:08</sys_updated_on>
+        <tablename>sys_attachment_doc</tablename>
+    </sys_metadata_link>
+</record_update>

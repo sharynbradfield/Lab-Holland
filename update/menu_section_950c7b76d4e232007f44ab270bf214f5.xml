@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu display_value="Service Management Menu - Top">94804ab16053110006ff67b5f2e89417</content_block_menu>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header><![CDATA[<p><a title="Fleet Management" href="/service_management/fleet_management_home.do" rel="nofollow"><img class="app_menu_image" src="/application.png" align="baseline" border="" hspace="" vspace="" /></a></p>]]></header>
+        <iframe/>
+        <image/>
+        <image_right/>
+        <logged_on>true</logged_on>
+        <menu_section_color/>
+        <name>Fleet Management</name>
+        <omit_body>false</omit_body>
+        <order>100</order>
+        <roles/>
+        <second_level_text>Access requests, catalog and knowledge of Fleet Management</second_level_text>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>950c7b76d4e232007f44ab270bf214f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fleet Management</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>menu_section_950c7b76d4e232007f44ab270bf214f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:02</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>url</type>
+        <url>fleet_management_home.do</url>
+    </menu_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=950c7b76d4e232007f44ab270bf214f5"/>
+</record_update>

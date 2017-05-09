@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-05-09 21:19:04">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order>850</order>
+        <read_roles>x_snc_fleet_manage_read</read_roles>
+        <roles>x_snc_fleet_manage_admin</roles>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>200c7b76d4e232007f44ab270bf21466</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fleet Management Overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_portal_page_200c7b76d4e232007f44ab270bf21466</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+        <title>Fleet Management Overview</title>
+        <user/>
+        <view>fleet_management_overview</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Fleet Management Overview">200c7b76d4e232007f44ab270bf21466</page>
+                <summary>Fleet Management Requests</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                <sys_id>280c7b76d4e232007f44ab270bf2146a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">280c7b76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>680c7b76d4e232007f44ab270bf2146b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">280c7b76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>ac0c7b76d4e232007f44ab270bf2146b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>500c7b76d4e232007f44ab270bf2143d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">280c7b76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>ec0c7b76d4e232007f44ab270bf2146a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>Fleet Management Requests</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Fleet Management Overview">200c7b76d4e232007f44ab270bf21466</page>
+                <summary>Fleet Management Requests by Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                <sys_id>640c7b76d4e232007f44ab270bf2146c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">640c7b76d4e232007f44ab270bf2146c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>2c0c7b76d4e232007f44ab270bf2146c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>Fleet Management Requests by Month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">640c7b76d4e232007f44ab270bf2146c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>a40c7b76d4e232007f44ab270bf2146d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">640c7b76d4e232007f44ab270bf2146c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>e80c7b76d4e232007f44ab270bf2146d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>500c7b76d4e232007f44ab270bf21446</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="Fleet Management Overview">200c7b76d4e232007f44ab270bf21466</page>
+                <summary>Fleet Management Catalog Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                <sys_id>a00c7b76d4e232007f44ab270bf2146e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">a00c7b76d4e232007f44ab270bf2146e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>280c7b76d4e232007f44ab270bf2146f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>500c7b76d4e232007f44ab270bf21440</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">a00c7b76d4e232007f44ab270bf2146e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>680c7b76d4e232007f44ab270bf2146e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>Fleet Management Catalog Usage</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:00">a00c7b76d4e232007f44ab270bf2146e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:00</sys_created_on>
+                        <sys_id>e00c7b76d4e232007f44ab270bf2146f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="Fleet Management Overview">200c7b76d4e232007f44ab270bf21466</page>
+                <summary>Fleet Management Group Usage</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                <sys_id>e80c7b76d4e232007f44ab270bf21466</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21466</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>240c7b76d4e232007f44ab270bf21467</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>Fleet Management Group Usage</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21466</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>240c7b76d4e232007f44ab270bf21468</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>280c7b76d4e232007f44ab270bf2145e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21466</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>ec0c7b76d4e232007f44ab270bf21467</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Fleet Management Overview">200c7b76d4e232007f44ab270bf21466</page>
+                <summary>Fleet Management Tasks</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                <sys_id>e80c7b76d4e232007f44ab270bf21468</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21468</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>2c0c7b76d4e232007f44ab270bf21469</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21468</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>600c7b76d4e232007f44ab270bf2146a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>280c7b76d4e232007f44ab270bf21461</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:03:59">e80c7b76d4e232007f44ab270bf21468</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+                        <sys_id>a00c7b76d4e232007f44ab270bf21469</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+                        <value>Fleet Management Tasks</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

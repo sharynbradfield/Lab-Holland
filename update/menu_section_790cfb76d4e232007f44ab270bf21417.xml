@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu display_value="Fleet Management Page Menu">bd0cfb76d4e232007f44ab270bf21410</content_block_menu>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header/>
+        <iframe/>
+        <image>&lt;img src="ask-help.png"/&gt;</image>
+        <image_right/>
+        <logged_on>true</logged_on>
+        <menu_section_color/>
+        <name>Support </name>
+        <omit_body>false</omit_body>
+        <order>30</order>
+        <roles/>
+        <second_level_text>Browse Fleet Management Support </second_level_text>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>790cfb76d4e232007f44ab270bf21417</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support </sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>menu_section_790cfb76d4e232007f44ab270bf21417</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:05</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>url</type>
+        <url>fleet_management_support.do</url>
+    </menu_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=790cfb76d4e232007f44ab270bf21417"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>980</size_bytes>
+        <size_compressed>1003</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:05</sys_created_on>
+        <sys_id>750cfb76d4e232007f44ab270bf21419</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:05</sys_updated_on>
+        <table_name>ZZ_YYmenu_section</table_name>
+        <table_sys_id>790cfb76d4e232007f44ab270bf21417</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="750cfb76d4e232007f44ab270bf21419">750cfb76d4e232007f44ab270bf21419</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:05</sys_created_on>
+        <sys_id>b90cfb76d4e232007f44ab270bf21419</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AdQDK/yJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADdklEQVR42uyd0W3iQBCGF4sCXAJveYUKAhVcUkGgAkIaQGkgkAoCFUAqwB2EPOYplOACIt3NwJhbfLMhPoaTN/f/0ghjryP0eTKe8e56Gy6gi4ePNn3ckF2RtRz0mTZkS7L5211zrTVoKIAZ6kQAQ9XFwEcEfBMETZC79LEgS5U/wFcqB8cDMae2sp859XzvbpQgr0onZGSPdMISTMMidvzfPyTrlg4x7GwPWsLFi+fJfEWui0bQl4GXIwJz7HAYSWTHpHSwB8jVJcx6XohNha1rSHbxork7dJJn+2G4k0gKt4/JgGzm2T7Hm6SUxj0Ck5l8llccOn56V6IBPqYhZM82KeXJkK3WGmgUI/bKNdDQGQXQAA3QEEADNEADAUADNATQAA3QEeri4SOVDoto1IwAasvtnplful3nZ+odKzYzsmey2dtdM4dHVwRM9kSb7+73OJM00Lwrbd7pnFuAribuc+tXPGfbGSoXCKC/qFO61fp18+w6g/YH7XDcnZEN3K47n+2abOrCHRZjvmniZnhEPOiEQDHcV9qehi4GtbmXMNNWwkhfLgY8+gjswSeQiza5eLemS4QOY+8vhRrfqwHaWK+oDKFvBVqLxxuAtq0iU/fn2GQnZTlAG0orTvI6DaBPvoE3c/48Vg7dI0bbSnuusT6WfwN0NW9+UirCXEp1ZB1GkG+d/nRvFJrrB9DVIXOGMVEOTQnyDHm0XSqnxWWeFjJCwWKbyrWUuHyNytDWm4fKoUFd+wpj9Wit3zCLYWZvbKB/KPvmMfzw2EBrYzmWAG2vllIB5gB9fkUzkwwP/gFa1fpIKKmtmjFRpnjcgUdDAA3Q/5GiitHykqixFC6Zi+jFWklkkBdeddjl77IfoA01CewfAvR5y+9CbYD+N9oAtK1mgf3PAG2rkVKC8/dpDD8+mvROHod2pAec4/I6pnf0RZVHC/DMHb68D5UhBNAADdAQQAM0BNAADdAQQAM0BNAADdCQEegUOMyVaqDb4GKutg96U3yJZYxEDCqx3C5K5o/0GQKRmXyWSwbtT7bpSp8cdJo3M0Of4zyRedO+Vy9ie8FqzSAzu4Xvzcy4uBlyV76/Bt8Knv3Xnrxyh2tDbqdNYylUuxufthRqp3jTAhb3PT1PDi3ue7CULJarttfx5aqVoF5egB1eHRazCS7A/kuAAQAPhxnIo42xMwAAAABJRU5ErkJggjRjzzTUAwAA</data>
+        <length>1324</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="750cfb76d4e232007f44ab270bf21419">750cfb76d4e232007f44ab270bf21419</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:05</sys_created_on>
+        <sys_id>3d0cfb76d4e232007f44ab270bf21419</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_fleet_manage_sfment_request">
+    <x_snc_fleet_manage_sfment_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string/>
+        <business_rule/>
+        <change_client_script/>
+        <client_script/>
+        <comment>Fleet Management Request State flow</comment>
+        <derived_from display_value="Close Complete">c67353c147232100158b949b6c9a7120</derived_from>
+        <end_text>3</end_text>
+        <ending_state display_value="Closed Complete">dbdbb376d4e232007f44ab270bf21439</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition table="x_snc_fleet_management_request">sla_suspended=false^EQ<item endquery="false" field="sla_suspended" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </manual_condition>
+        <manual_roles/>
+        <manual_script><![CDATA[if (current.getValue("work_notes") == '' && (new sn_sm.SMConfiguration()).isEnabled(current, "mandatory_work_notes", "false")) {
+	gs.addErrorMessage(gs.getMessage('Provide a summary of the work performed in Work notes'));
+	current.setAbortAction(true);
+	action.setRedirectURL(current);
+}]]></manual_script>
+        <manual_string>new global.SMTask().showCloseCompleteRequest(current)</manual_string>
+        <name>Close Complete</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010008</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>18</start_text>
+        <starting_state display_value="Work In Progress">d3dbb376d4e232007f44ab270bf21435</starting_state>
+        <sys_class_name>x_snc_fleet_manage_sfment_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:03:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d8ebf376d4e232007f44ab270bf21467</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Close Complete</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>x_snc_fleet_manage_sfment_request_d8ebf376d4e232007f44ab270bf21467</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:03:26</sys_updated_on>
+        <table>x_snc_fleet_management_request</table>
+        <translated_ending_state>Closed Complete</translated_ending_state>
+        <translated_starting_state>Work In Progress</translated_starting_state>
+        <ui_action display_value="Close Complete">d0ebf376d4e232007f44ab270bf21468</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_snc_fleet_manage_sfment_request>
+</record_update>

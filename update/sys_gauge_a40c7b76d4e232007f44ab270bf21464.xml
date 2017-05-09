@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname/>
+        <group_field/>
+        <lower_limit/>
+        <name>Maintenance tasks assigned to vendors</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report display_value="Maintenance tasks assigned to vendors">ac0c7b76d4e232007f44ab270bf21462</report>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:03:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a40c7b76d4e232007f44ab270bf21464</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance tasks assigned to vendors</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_gauge_a40c7b76d4e232007f44ab270bf21464</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:03:59</sys_updated_on>
+        <tablename>x_snc_fleet_management_task</tablename>
+        <title>Maintenance tasks assigned to vendors</title>
+        <type>report</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>

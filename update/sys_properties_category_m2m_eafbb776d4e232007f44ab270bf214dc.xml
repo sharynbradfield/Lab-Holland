@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Fleet Management">62fbb776d4e232007f44ab270bf214da</category>
+        <order>1</order>
+        <property display_value="x_snc_fleet_manage.default.start.time" name="x_snc_fleet_manage.default.start.time">5feb7776d4e232007f44ab270bf21453</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:03:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>eafbb776d4e232007f44ab270bf214dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fleet_manage.default.start.time.Fleet Management</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_eafbb776d4e232007f44ab270bf214dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:03:51</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

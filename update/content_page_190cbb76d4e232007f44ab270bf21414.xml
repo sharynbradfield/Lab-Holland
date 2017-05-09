@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-05-09 21:19:04">
+    <sys_portal action="delete_multiple" query="page=190cbb76d4e232007f44ab270bf21414">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone_content</dropzone>
+                <offset>1</offset>
+                <page display_value="Fleet Management Catalog | SM">190cbb76d4e232007f44ab270bf21414</page>
+                <summary>Fleet Management Catalog Iframe</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                <sys_id>650cbb76d4e232007f44ab270bf2146a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>650cbb76d4e232007f44ab270bf2147b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>73ceba16df223100f6cfa5f59bf2635f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:04</sys_created_on>
+                        <sys_id>690cbb76d4e232007f44ab270bf21480</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:04</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>6d0cbb76d4e232007f44ab270bf2147b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>Fleet Management Catalog Iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>a10cbb76d4e232007f44ab270bf2146e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>190cbb76d4e232007f44ab270bf21414</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">650cbb76d4e232007f44ab270bf2146a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>ed0cbb76d4e232007f44ab270bf2147a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone_content</dropzone>
+                <offset>0</offset>
+                <page display_value="Fleet Management Catalog | SM">190cbb76d4e232007f44ab270bf21414</page>
+                <summary>Fleet Management Catalog Iframe</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                <sys_id>d50cbb76d4e232007f44ab270bf21416</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">d50cbb76d4e232007f44ab270bf21416</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>210cbb76d4e232007f44ab270bf21466</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>Fleet Management Catalog Iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">d50cbb76d4e232007f44ab270bf21416</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>210cbb76d4e232007f44ab270bf2146a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">d50cbb76d4e232007f44ab270bf21416</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>290cbb76d4e232007f44ab270bf21465</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>510cbb76d4e232007f44ab270bf21412</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">d50cbb76d4e232007f44ab270bf21416</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>2d0cbb76d4e232007f44ab270bf21464</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>190cbb76d4e232007f44ab270bf21414</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-09 13:04:03">d50cbb76d4e232007f44ab270bf21416</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+                        <sys_id>a10cbb76d4e232007f44ab270bf21465</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-09 20:04:03</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="Service Management">a7161b58344355006f71c202665db07c</content_site>
+        <content_theme/>
+        <description>Browse Fleet Management Catalog</description>
+        <frame_buster>true</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>Fleet Management Catalog</name>
+        <order/>
+        <parent_page display_value="Fleet Management Home Page">1d0cbb76d4e232007f44ab270bf2140a</parent_page>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>190cbb76d4e232007f44ab270bf21414</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Fleet Management Catalog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>content_page_190cbb76d4e232007f44ab270bf21414</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:04</sys_updated_on>
+        <title>Fleet Management Catalog | SM</title>
+        <url_suffix>fleet_management_catalog</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>Published</workflow_state>
+    </content_page>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f5eb3776d4e232007f44ab270bf214db</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group_type">
+    <sys_user_group_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>fleet_management_dispatch</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:03:32</sys_created_on>
+        <sys_id>f5eb3776d4e232007f44ab270bf214db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:03:32</sys_updated_on>
+    </sys_user_group_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:04:10</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>470c3f76d4e232007f44ab270bf214b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fleet_management_dispatch</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">6edb3376d4e232007f44ab270bf2146b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">6edb3376d4e232007f44ab270bf2146b</sys_scope>
+        <sys_update_name>sys_metadata_link_470c3f76d4e232007f44ab270bf214b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:04:10</sys_updated_on>
+        <tablename>sys_user_group_type</tablename>
+    </sys_metadata_link>
+</record_update>
